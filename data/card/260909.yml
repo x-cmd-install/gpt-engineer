@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.1"
   latestRelease: "v0.3.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:32:48Z
+  collectedAt: 2026-09-09T19:49:37Z
 timeline:
   created: 2023-04-29
   lastCommit: 2024-11-17
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2024-06-06
   lastPrerelease: 
 popularity:
-  star: 55101
+  star: 55100
   watcher: 533
-  fork: 7289
+  fork: 7291
   release: 21
   contributor: 103
   pullRequest: 637
@@ -87,7 +87,7 @@ total:
   commit: 1648
 ---
 path: /home/runner/.x-repo/github.com/AntonOsika/gpt-engineer
-collectedAt: 2026-09-09T05:32:50Z
+collectedAt: 2026-09-09T19:49:40Z
 loc:
   Python:
     code: 9454
