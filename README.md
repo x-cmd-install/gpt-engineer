@@ -38,7 +38,7 @@ Total: **9,952** lines of code across **99** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 55,091 · **Forks**: 7,286 · **Open issues**: 503 · **Contributors**: 103
+- **Stars**: 55,092 · **Forks**: 7,285 · **Open issues**: 503 · **Contributors**: 103
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **9,952** lines of code across **99** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-24 | 0 | 0 | 2 | 1 | 1 | 0 |
-| 360d | 2025-09-25 | 0 | 0 | 19 | 2 | 1 | 0 |
-| last720d | 2024-09-30 | 0 | 2 | 30 | 5 | 23 | 2 |
+| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-25 | 0 | 0 | 2 | 1 | 1 | 0 |
+| 360d | 2025-09-26 | 0 | 0 | 19 | 2 | 1 | 0 |
+| last720d | 2024-10-01 | 0 | 2 | 30 | 5 | 22 | 2 |
 
 ## Improve this data
 
@@ -64,4 +64,4 @@ Install metadata for gpt-engineer lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:42:08Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:53:37Z._
